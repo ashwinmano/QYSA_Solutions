@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "image": "images/brand/client-logo-01a.png"
+    },
+    {
+        "id": 2,
+        "image": "images/brand/client-logo-02a.png"
+    },
+    {
+        "id": 3,
+        "image": "images/brand/client-logo-03a.png"
+    },
+    {
+        "id": 4,
+        "image": "images/brand/client-logo-04a.png"
+    },
+    {
+        "id": 5,
+        "image": "images/brand/client-logo-05a.png"
+    },
+    {
+        "id": 6,
+        "image": "images/brand/client-logo-06a.png"
+    },
+    {
+        "id": 7,
+        "image": "images/brand/client-logo-01.png"
+    },
+    {
+        "id": 8,
+        "image": "images/brand/client-logo-08a.png"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "title": "Home",
+        "list": [
+            {
+            "id": 1,
+            "text": "Services",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "Know Us",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": "Connect",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Know Us",
+        "list": [
+            {
+            "id": 1,
+            "text": "About Us",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "Our Vision",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": "Our Team",
+            "url": "/"
+            },
+            {
+            "id": 4,
+            "text": "Our Partners",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Services",
+        "list": [
+            {
+            "id": 1,
+            "text": "Placement and Training",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "Import and Export",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": "Ecommerce",
+            "url": "/"
+            },
+            {
+            "id": 4,
+            "text": "Digital Marketing & Website Development",
+            "url": "/"
+            },
+            {
+            "id": 5,
+            "text": "Cybersecurity",
+            "url": "/"
+            },
+            {
+            "id": 6,
+            "text": "Data Management",
+            "url": "/"
+            },
+            {
+            "id": 7,
+            "text": "Blockchain",
+            "url": "/"
+            },
+            {
+            "id": 8,
+            "text": "Event Management / Manpower",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Connect",
+        "list": [
+            {
+            "id": 1,
+            "text": "Service Enquiry",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "Business Enquiry",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": "FAQs",
+            "url": "/"
+            }
+        ]
+    }
+]

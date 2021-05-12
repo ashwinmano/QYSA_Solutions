@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "icon": "images/svg/linea/linea-basic-target.svg",
+        "title": "Placement And Training",
+        "desc": "We give corporate training to professionals and mould them to suit your requirements.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "2",
+        "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
+        "title": "Digital Marketing And Website Development",
+        "desc": "We can promote your product or service on the internet and other various media platforms.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "3",
+        "icon": "images/svg/linea/linea-basic-picture.svg",
+        "title": "Data Management",
+        "desc": "Your data is an enormous untapped resource. We want to help you optimise and use data that your business collects.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "4",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Ecommerce",
+        "desc": "We want to help you interact with the global digital marketplace. We will help you buy...",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-basic-gear.svg",
+        "title": "Import and Export",
+        "desc": "We handle the import and export of goods and services. We ensure that your product...",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "6",
+        "icon": "images/svg/linea/linea-basic-display.svg",
+        "title": "Cyber-Security",
+        "desc": "We have Information Technology specialists who are adept at countering external hazards..",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "7",
+        "icon": "images/svg/linea/linea-basic-gear.svg",
+        "title": "Blockchain",
+        "desc": "Blockchain is a secure, immutable & programmable database that makes it very convenient for online transactions. We have professionals who are proficient in using Blockchain.  ",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "8",
+        "icon": "images/svg/linea/linea-basic-picture.svg",
+        "title": "Event Management/Workforce",
+        "desc": "We manage and produce events for our clients who are looking for a creative and memorable experience. Our creatives capture your vision and materialise them into beautiful works of art. ",
+        "pageLink": "Learn More",
+        "link": "service"
+    }
+    
+]
